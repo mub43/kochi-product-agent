@@ -26,7 +26,7 @@ You'll need Python 3.11+ and a Google Gemini API key ([get one here](https://mak
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/kotchi.ai.git
+   git clone https://github.com/mub43/kotchi.ai.git
    cd kotchi.ai
    ```
 
@@ -124,4 +124,5 @@ MIT License - use it however you want!
 ## Contributing
 
 I'm open to contributions! Submit issues, fork the repo, or send pull requests. Let's make this better together.
+
 

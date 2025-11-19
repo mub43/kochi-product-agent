@@ -1,0 +1,24 @@
+{
+  "code-completion": {
+    "enabled": true
+  },
+  "docs": {
+    "docstrings": true,
+    "style": "google"
+  },
+  "lint": {
+    "enabled": true,
+    "rules": {
+      "prefer-f-strings": true,
+      "max-line-length": 100,
+      "enforce-typing": true
+    }
+  },
+  "tests": {
+    "unit-testing": true,
+    "style": "pytest"
+  },
+  "style-guide": "PEP8"
+}
+
+
